@@ -33,7 +33,7 @@ import socket
 #socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, "127.0.0.1", 9050)
 #socket.socket = socks.socksocket
 
-def TryPass(apple_id,password):
+def TryPass(faithlynn864@gmail.com, 449 Password1):
 
 
 	url = 'https://fmipmobile.icloud.com/fmipservice/device/'+apple_id+'/initClient'
